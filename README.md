@@ -21,5 +21,8 @@
 # Now check number pods (Here I am paching replica count)
     kubectl get pods -n dev
   ![image](https://user-images.githubusercontent.com/58024415/101765481-5e6ddc00-3b07-11eb-9059-b83820b4fe4c.png)
+  
+  ![image](https://user-images.githubusercontent.com/54719289/116149763-702cd600-a6da-11eb-9a11-735c8b3dace2.png)
+
 # Clean-UP
     kubectl delete -k .
